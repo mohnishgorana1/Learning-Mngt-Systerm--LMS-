@@ -1,3 +1,4 @@
+import { Route, Routes } from "react-router-dom"
 
 
 function App() {
@@ -5,7 +6,9 @@ function App() {
 
   return (
     <>
-      <h1 className="">LMS</h1>
+      <Routes>
+        
+      </Routes>
     </>
   )
 }
